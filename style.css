@@ -1,0 +1,49 @@
+body{
+    font-family: 'Patrick Hand', cursive;
+}
+.bg{
+    background-image: url('assets/abstract.jpg');
+    width: 100%;
+}
+section{
+    height: 500px;
+}
+.container{
+    width: 40%;
+    margin-left: 3%;
+    padding-left: 2%;
+    float: left;
+}
+.boxtwo{
+    width: 400px;
+    height: 400px;
+    margin-right: 5%;
+    padding-left: 2%;
+    float: right;
+}
+.container img{
+    width: 100%;
+}
+.boxone{
+    margin-top: 140px;
+}
+.boxone h3{
+    font-size: 35px;
+    margin-bottom: 8px;
+}
+.boxone h2{
+    font-size: 45px;
+    color: rgb(240, 24, 60);
+    margin-top: 0;
+}
+.boxone  p{
+    color: grey;
+    font-size: 18px;
+}
+.boxone a{
+    text-decoration: none;
+    color: white;
+    background: rgb(255, 21, 80);
+    padding: 12px 8px;
+    border-radius: 4px;
+}
